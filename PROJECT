@@ -1,0 +1,7 @@
+domain: tutorial.jcsr.dev
+repo: github.com/juanjcsr/kubecrd
+resources:
+- group: batch
+  kind: CronJob
+  version: v1
+version: "2"
